@@ -1,0 +1,14 @@
+.site-name {
+  color: #de281a;
+  font-weight: bold;
+}
+
+.navtext {
+  text-align: right;
+  //display: right;
+}
+
+.navbar-cus {
+  //position: fixed;
+  //top: 0;
+}
