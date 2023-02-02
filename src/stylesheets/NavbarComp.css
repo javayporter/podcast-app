@@ -1,5 +1,5 @@
 .site-name {
-  color: #de281a;
+  color: white;
   font-weight: bold;
 }
 
@@ -9,6 +9,5 @@
 }
 
 .navbar-cus {
-  //position: fixed;
-  //top: 0;
+  background-color: black;
 }

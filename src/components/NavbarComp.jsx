@@ -5,17 +5,14 @@ import "../stylesheets/NavbarComp.css";
 
 const NavbarComp = () => {
   return (
-    <Navbar className="navbar-cus" bg="light" variant="light" fixed="top">
+    <Navbar className="navbar-cus" bg="black" variant="dark" fixed="top">
       <Container>
         <Navbar.Brand className="site-name" href="/">
-          Angel's Podcast
+          SLR
         </Navbar.Brand>
-        <Nav className="navtext">
-          <Nav.Link className="navtext" href="#about">
-            About
-          </Nav.Link>
+        {/* <Nav className="navtext">
           <Nav.Link href="#contact">Contact</Nav.Link>
-        </Nav>
+        </Nav> */}
       </Container>
     </Navbar>
   );

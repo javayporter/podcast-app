@@ -1,19 +1,25 @@
 .App {
   text-align: center;
+  background-color: black;
 }
 .abt-container {
-  margin-left: 18%;
-  margin-right: 18%;
-  padding: 4em;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding: 3em;
 }
 .abtme-background {
-  background-color: #de281a;
-  margin-bottom: 6%;
+  background-color: #8c681d;
+  margin-bottom: 4%;
 }
 
 .contact-container {
   margin-left: 18%;
   margin-right: 18%;
+  margin-bottom: 4%;
+}
+
+.main-logo {
+  margin-top: 18%;
 }
 
 .App-header {
@@ -25,4 +31,8 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.body-without-nav {
+  margin-top: 18%;
 }
